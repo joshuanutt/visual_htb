@@ -1,0 +1,14 @@
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\bin\Release\net6.0\visual_htb.exe
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\bin\Release\net6.0\visual_htb.deps.json
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\bin\Release\net6.0\visual_htb.runtimeconfig.json
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\bin\Release\net6.0\visual_htb.dll
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\bin\Release\net6.0\visual_htb.pdb
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.AssemblyInfoInputs.cache
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.AssemblyInfo.cs
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.csproj.CoreCompileInputs.cache
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.dll
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\refint\visual_htb.dll
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.pdb
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\visual_htb.genruntimeconfig.cache
+C:\Users\MALDEV01\source\repos\visual_htb\visual_htb\obj\Release\net6.0\ref\visual_htb.dll
